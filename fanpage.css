@@ -1,0 +1,29 @@
+
+		*{
+			margin: 0;
+			padding: 0;
+			font-family:arial; 
+			color:white;
+		}
+
+		body {
+			background-image: url("bara no seidou.jpg");
+			
+		}
+
+
+		a {
+			color:white;
+			text-decoration:none;
+			
+		}
+
+		p{
+			font-size:22px;
+			-webkit-stroke-color: black;
+			-webkit-stroke-width: 13px;
+		}
+		li{
+			font-size:20px
+		}
+		
